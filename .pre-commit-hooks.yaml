@@ -1,0 +1,6 @@
+-   id: fleck
+    name: fleck
+    description: This hook checks for a maximum function length.
+    entry: fleck
+    language: python
+    types: [python]
